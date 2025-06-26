@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be73557d181fac04483922b4855550bd, type: 3}
   m_Name: MissionGroup
   m_EditorClassIdentifier: 
-  MissionChains:
+  MissionSequences:
   - {fileID: 11400000, guid: 8b470cf4383f43741bda5504d5f4ed49, type: 2}
   - {fileID: 11400000, guid: 548c4974a741f8a4f91970b9d973028c, type: 2}

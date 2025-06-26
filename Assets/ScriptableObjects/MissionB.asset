@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d84ff72dcc39e0d4f93ed160e0be7822, type: 3}
   m_Name: MissionB
   m_EditorClassIdentifier: 
-  MissionName: 
-  Delay: 0
-  MissionPrefab: {fileID: 0}
+  MissionName: B
+  Delay: 5
+  MissionPrefab: {fileID: 3796983464797569272, guid: 14bb0b89ce4c8ae448bf9beab4816203,
+    type: 3}
